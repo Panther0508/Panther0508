@@ -1,264 +1,210 @@
-# 👨‍💻 Nmesirionye | Fullstack Developer
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Panther0508&style=flat-square&color=00d4ff&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Panther0508?style=flat-square&color=00d4ff" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/MERN-Stack-Expert-00d4ff?style=flat-square" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/Open%20For-Work-00ff88?style=flat-square" alt="Open to work" />
-</p>
-
----
-
-## 💡 About Me
-
-I'm a **Fullstack Developer** who builds fast, scalable, and user-friendly web applications. I turn complex problems into clean, elegant solutions.
-
-> "Code is poetry written in logic."
-
-**⚡ Quick Facts:**
-
-- 🌍 Based in Nigeria, UTC+1
-- 🎯 Actively seeking full-time opportunities
-- 💻 2+ years building with JavaScript/TypeScript
-- 🚀 Focused on performance & user experience
-
----
-
-## 🛠️ Tech Stack
+<!--
+  ═══════════════════════════════════════════════════════════════════════════
+  ║  BLACK ARTS AT ITS BEST - Professional GitHub Profile                  ║
+  ║  Designed for career-focused recruitment and job applications          ║
+  ═══════════════════════════════════════════════════════════════════════════
+-->
 
 <div align="center">
 
-### Frontend
+# Nmesirionye Ngbaronye
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### Mechatronics Engineering Student & Full-Stack Developer
 
-### Backend
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+> _"Blending engineering precision with elegant design to build digital experiences that matter."_
 
-### Tools & DevOps
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Federal University of Technology Owerri** • Mechatronics Engineering  
+**Location:** Owerri, Nigeria (UTC+1)
+
+---
+
+[📧 Email](mailto:nmesirionyengbaronye@gmail.com) •
+[🐦 Twitter](https://twitter.com/pantherlord0508) •
+[💼 LinkedIn](https://linkedin.com/in/nmesirionye) •
+[🌐 Portfolio](https://nmesirionyengbaronye.pxxl.click)
+
+---
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
+
+I am a **Mechatronics Engineering student** at the Federal University of Technology Owerri with over two years of hands-on experience building exceptional digital experiences that blend engineering precision with elegant design.
+
+My unique interdisciplinary background combines mechanical engineering principles with software development, allowing me to approach problems from multiple angles and deliver comprehensive solutions. I specialize in building **accessible, high-performance web applications** and **robust APIs** that solve real-world problems.
+
+I'm passionate about leveraging modern technologies to create intuitive user interfaces while maintaining backend reliability and scalability. My commitment to code quality, continuous learning, and staying current with emerging technologies drives every project I undertake.
+
+---
+
+## 🛠️ Technical Expertise
+
+### Core Technologies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Panther0508&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00d4ff&text_color=ffffff" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panther0508&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" height="180" alt="Top Languages" />
+
+| Category        | Technologies                                |
+| --------------- | ------------------------------------------- |
+| **Programming** | Python, JavaScript, TypeScript, HTML        |
+| **Frontend**    | React, Next.js, HTML, CSS, Tailwind CSS     |
+| **Backend**     | FastAPI, Flask, Node.js, Express            |
+| **Database**    | SQLAlchemy, SQLite, MongoDB                 |
+| **AI/ML**       | spaCy, Hugging Face Transformers, Streamlit |
+| **Tools**       | Git, Docker                                 |
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🔧 Engineering Approach
 
-### 1. Developer-News-Dashboard (DevPulse)
+My mechatronics background provides a distinct perspective on software development:
 
-> A full-stack Developer News Dashboard built with React and FastAPI that aggregates developer-related news from multiple public APIs.
-
-**Tech:** React • FastAPI • Python • TypeScript • Tailwind CSS
-
-**Key Features:**
-
-- Aggregated news from Hacker News and Dev.to
-- Smart search across all news sources
-- Tech Trends Charts with visualizations
-- GitHub Trending repositories
-- AI News Assistant powered by HuggingFace
-
-**Repository:** [View on GitHub](https://github.com/Panther0508/Developer-News-Dashboard)
-
-|                |                |
-| -------------- | -------------- |
-| ⭐ Stars       | 1              |
-| 🌍 Last Commit | March 16, 2026 |
-| 📝 License     | MIT            |
+- **System Thinking:** Approaching applications as interconnected systems, considering how components interact and affect overall performance
+- **Precision & Accuracy:** Applying mechanical engineering tolerances to code architecture and data integrity
+- **Problem Decomposition:** Breaking complex problems into manageable subsystems
+- **Optimization Mindset:** Continuously refining code for performance and efficiency
+- **Cross-Disciplinary Innovation:** Combining hardware and software perspectives to create novel solutions
 
 ---
 
-### 2. Market-Trend-AI
+## 📁 Featured Projects
 
-> A cryptocurrency news aggregation and market analytics platform featuring real-time data from multiple sources and AI-powered sentiment analysis.
+### 1. AI Resume Analyzer
 
-**Tech:** TypeScript • Python • FastAPI • React • CSS
+> A production-ready recruitment tool that operates offline, leveraging NLP models to parse, analyze, and score candidate resumes against job requirements.
 
-**Key Features:**
+**Tech Stack:** Python • Flask • SQLAlchemy • spaCy • Hugging Face Transformers
 
-- Real-time cryptocurrency data aggregation
+**Key Capabilities:**
+
+- PDF/DOCX resume parsing with 85%+ accuracy
+- Intelligent skill extraction using spaCy NER
+- Weighted candidate scoring algorithms
+- Interactive analytics dashboard
+- Real-time candidate-job matching
+
+[View Repository →](https://github.com/Panther0508/Ai-resume-analyzer)
+
+---
+
+### 2. Developer News Dashboard (DevPulse)
+
+> A full-stack developer news aggregation platform built with React and FastAPI that consolidates news from multiple sources.
+
+**Tech Stack:** React • FastAPI • Python • TypeScript • Tailwind CSS
+
+**Key Capabilities:**
+
+- News aggregation from Hacker News and Dev.to
+- Smart search across sources
+- Tech trends visualization
+- AI-powered news assistant
+
+[View Repository →](https://github.com/Panther0508/Developer-News-Dashboard)
+
+---
+
+### 3. Market Trend AI
+
+> A cryptocurrency news aggregation and market analytics platform featuring real-time data and AI-powered sentiment analysis.
+
+**Tech Stack:** TypeScript • Python • FastAPI • React
+
+**Key Capabilities:**
+
+- Real-time crypto data aggregation
 - AI-powered sentiment analysis
 - Market analytics dashboard
-- News aggregation from multiple crypto sources
 - Intelligent recommendations
 
-**Repository:** [View on GitHub](https://github.com/Panther0508/Market-Trend-AI)
-
-|                |                |
-| -------------- | -------------- |
-| ⭐ Stars       | 1              |
-| 🌍 Last Commit | March 18, 2026 |
+[View Repository →](https://github.com/Panther0508/Market-Trend-AI)
 
 ---
 
-### 3. E-library
+### 4. E-library
 
-> A centralized digital knowledge hub for engineering students, providing structured access to textbooks, research papers, project guides, and technical resources.
+> A centralized digital knowledge hub for engineering students providing structured access to technical resources.
 
-**Tech:** TypeScript • React • CSS
+**Tech Stack:** TypeScript • React • CSS
 
-**Key Features:**
+**Key Capabilities:**
 
 - Engineering textbook collection
 - Research papers and documentation
 - Project guides and circuit diagrams
-- Programming references
-- Case studies
 
-**Repository:** [View on GitHub](https://github.com/Panther0508/E-library)
-
-|                |                |
-| -------------- | -------------- |
-| ⭐ Stars       | 1              |
-| 🌍 Last Commit | March 18, 2026 |
+[View Repository →](https://github.com/Panther0508/E-library)
 
 ---
 
-### 4. Emotional-Support-Model
+### 5. Emotional Support Model
 
-> A self-learning AI chatbot that provides emotional support and learns from interactions. Built with Python, NLP, and Streamlit.
+> A self-learning AI chatbot that provides emotional support and learns from interactions.
 
-**Tech:** Python • HTML • CSS • JavaScript • Streamlit
+**Tech Stack:** Python • NLP • Streamlit
 
-**Key Features:**
-
-- NLP-based conversational AI
-- Self-learning from interactions
-- Emotional support responses
-- Streamlit web interface
-
-**Repository:** [View on GitHub](https://github.com/Panther0508/Emotional-Support-Model)
-
-**Live Demo:** [https://emotional-support-model.pxxl.click](https://emotional-support-model.pxxl.click)
-
-|                |                |
-| -------------- | -------------- |
-| 🌍 Last Commit | March 13, 2026 |
-| 📝 License     | MIT            |
+[Live Demo →](https://emotional-support-model.pxxl.click) • [View Repository →](https://github.com/Panther0508/Emotional-Support-Model)
 
 ---
 
-### 5. IntentScope
+### 6. IntentScope
 
-> A behavioral analytics platform combining offline machine learning training with real-time streaming inference. Features a comprehensive canvas for intent classification.
+> A behavioral analytics platform combining offline ML training with real-time streaming inference.
 
-**Tech:** Python • HTML • CSS
+**Tech Stack:** Python • HTML • CSS
 
-**Key Features:**
-
-- Offline machine learning training
-- Real-time streaming inference
-- Behavioral analytics
-- Intent classification system
-- 40-block canvas implementation
-
-**Repository:** [View on GitHub](https://github.com/Panther0508/IntentScope)
-
-**Live Demo:** [https://intentscope.pxxl.click](https://intentscope.pxxl.click)
-
-|                |                |
-| -------------- | -------------- |
-| 🌍 Last Commit | March 11, 2026 |
+[Live Demo →](https://intentscope.pxxl.click) • [View Repository →](https://github.com/Panther0508/IntentScope)
 
 ---
 
-## 📈 What I'm Working On
+## 🎯 Professional Values
 
 <div align="center">
 
-```javascript
-const currentFocus = {
-  building: ["SaaS applications", "Real-time systems"],
-  learning: ["TypeScript mastery", "GraphQL", "AWS"],
-  improving: ["Code architecture", "System design", "Testing"],
-};
-```
+| Value                      | Commitment                                           |
+| -------------------------- | ---------------------------------------------------- |
+| **Code Quality**           | Writing maintainable, well-documented, testable code |
+| **Accessibility**          | Building inclusive applications for all users        |
+| **Performance**            | Optimizing for speed, efficiency, and scalability    |
+| **Continuous Learning**    | Staying current with emerging technologies           |
+| **Engineering Discipline** | Applying systematic approaches to development        |
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
-| Achievement                   | Year      |
-| ----------------------------- | --------- |
-| 🚀 100 Days of Code Challenge | 2024      |
-| 💻 50+ GitHub Repositories    | 2024      |
-| ⭐ 100+ Total Stars           | 2024      |
-| 🤝 Open Source Contributions  | 2023-2024 |
-
----
-
-## 📫 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nmesirionyengbaronye@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmesirionyengbaronye@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Panther0508-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Panther0508)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nmesirionye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nmesirionye)
-[![Twitter](https://img.shields.io/badge/Twitter-@panther0508-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/panther0508)
-[![Dev.to](https://img.shields.io/badge/Dev.to-panther0508-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/panther0508)
+I'm actively seeking opportunities to contribute to meaningful projects and collaborate with teams that value engineering excellence. Whether you're looking for a dedicated developer, have a challenging project, or want to discuss potential opportunities, I'd love to connect.
+
+**Open to:** Full-time positions, freelance projects, and collaborative opportunities
+
+---
+
+[📧 Contact Me](mailto:nmesirionyengbaronye@gmail.com) •
+[🔗 LinkedIn](https://linkedin.com/in/nmesirionye) •
+[🐦 Twitter](https://twitter.com/pantherlord0508)
+
+---
+
+_"Engineering the future, one line of code at a time."_
 
 </div>
 
 ---
 
-## 📌 Pinned Projects
-
-<div align="left">
-  <a href="https://github.com/Panther0508/Developer-News-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=Developer-News-Dashboard&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Developer News Dashboard" />
-  </a>
-  <a href="https://github.com/Panther0508/Market-Trend-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=Market-Trend-AI&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Market Trend AI" />
-  </a>
-  <a href="https://github.com/Panther0508/E-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=E-library&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="E-library" />
-  </a>
-  <a href="https://github.com/Panther0508/Emotional-Support-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=Emotional-Support-Model&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Emotional Support Model" />
-  </a>
-  <a href="https://github.com/Panther0508/IntentScope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=IntentScope&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="IntentScope" />
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Panther0508&style=flat-square&color=00d4ff" alt="Profile views" />
-  <br/>
-  <em>Last updated: March 2026</em>
-</p>
-
----
-
-<div align="center">
-
-**⭐ From Panther0508**
-
-_Building the future, one commit at a time._
-
-</div>
+<!--
+  ═══════════════════════════════════════════════════════════════════════════
+  ║  Built with precision and passion by Nmesirionye                        ║
+  ║  Mechatronics Engineering Student • Full-Stack Developer                ║
+  ═══════════════════════════════════════════════════════════════════════════
+-->
