@@ -1,31 +1,25 @@
-<!--
-  ═══════════════════════════════════════════════════════════════════════════
-  ║  BLACK ARTS AT ITS BEST - Professional GitHub Profile                  ║
-  ║  Designed for career-focused recruitment and job applications          ║
-  ═══════════════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
 
-# Nmesirionye Ngbaronye
-
-### Mechatronics Engineering Student & Full-Stack Developer
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:27272a&height=200&section=header&text=Nmesirionye%20Ngbaronye&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Mechatronics%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=a1a1aa)
 
 ---
+
+### 🎯 Mechatronics Engineering Student & Full-Stack Developer
+
+[![University](https://img.shields.io/badge/Federal_University_of_Technology_Owerri-18181b?style=flat&logo=graduation-cap&logoColor=a1a1aa)](https://futo.edu.ng)
+[![Location](https://img.shields.io/badge/Owerri%2C_Nigeria-18181b?style=flat&logo=map-pin&logoColor=a1a1aa)](https://google.com/maps/search/Owerri+Nigeria)
+[![Status](https://img.shields.io/badge/Open_to_Work-22c55e?style=flat&logo=briefcase&logoColor=ffffff)](mailto:nmesirionyengbaronye@gmail.com)
 
 > _"Blending engineering precision with elegant design to build digital experiences that matter."_
 
 ---
 
-**Federal University of Technology Owerri** • Mechatronics Engineering  
-**Location:** Owerri, Nigeria (UTC+1)
+### 📬 Connect With Me
 
----
-
-[📧 Email](mailto:nmesirionyengbaronye@gmail.com) •
-[🐦 Twitter](https://twitter.com/pantherlord0508) •
-[💼 LinkedIn](https://linkedin.com/in/nmesirionye) •
-[🌐 Portfolio](https://nmesirionyengbaronye.pxxl.click)
+[![Email](https://img.shields.io/badge/Email-nmesirionyengbaronye@gmail.com-18181b?style=flat&logo=gmail&logoColor=ea580c)](mailto:nmesirionyengbaronye@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nmesirionye-18181b?style=flat&logo=linkedin&logoColor=0ea5e9)](https://linkedin.com/in/nmesirionye)
+[![Twitter](https://img.shields.io/badge/Twitter-@pantherlord0508-18181b?style=flat&logo=twitter&logoColor=0ea5e9)](https://twitter.com/pantherlord0508)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nmesirionyengbaronye.pxxl.click-18181b?style=flat&logo=globe&logoColor=22c55e)](https://nmesirionyengbaronye.pxxl.click)
 
 ---
 
@@ -45,122 +39,176 @@ I'm passionate about leveraging modern technologies to create intuitive user int
 
 ## 🛠️ Technical Expertise
 
-### Core Technologies
-
 <div align="center">
 
-| Category        | Technologies                                |
-| --------------- | ------------------------------------------- |
-| **Programming** | Python, JavaScript, TypeScript, HTML        |
-| **Frontend**    | React, Next.js, HTML, CSS, Tailwind CSS     |
-| **Backend**     | FastAPI, Flask, Node.js, Express            |
-| **Database**    | SQLAlchemy, SQLite, MongoDB                 |
-| **AI/ML**       | spaCy, Hugging Face Transformers, Streamlit |
-| **Tools**       | Git, Docker                                 |
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3b82f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=f0db4f)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![HTML5](https://img.shields.io/badge/HTML5-18181b?style=for-the-badge&logo=html5&logoColor=e34c26)
+
+### ⚛️ Frontend Development
+
+![React](https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181b?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
+![CSS3](https://img.shields.io/badge/CSS3-18181b?style=for-the-badge&logo=css3&logoColor=264de4)
+
+### 🔧 Backend Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-18181b?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-18181b?style=for-the-badge&logo=flask&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-18181b?style=for-the-badge&logo=express&logoColor=ffffff)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-18181b?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![SQLite](https://img.shields.io/badge/SQLite-18181b?style=for-the-badge&logo=sqlite&logoColor=003b57)
+
+### 🤖 AI/ML
+
+![spaCy](https://img.shields.io/badge/spaCy-18181b?style=for-the-badge&logo=spacy&logoColor=9a369d)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-18181b?style=for-the-badge&logo=huggingface&logoColor=ff9f1c)
+![Streamlit](https://img.shields.io/badge/Streamlit-18181b?style=for-the-badge&logo=streamlit&logoColor=ff4b4b)
+
+### 🧰 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=f05032)
+![Docker](https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=2496ed)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-18181b?style=for-the-badge&logo=sqlalchemy&logoColor=d71f00)
 
 </div>
 
 ---
 
-## 🔧 Engineering Approach
+## 🎓 Engineering Approach
 
-My mechatronics background provides a distinct perspective on software development:
+<div align="center">
 
-- **System Thinking:** Approaching applications as interconnected systems, considering how components interact and affect overall performance
-- **Precision & Accuracy:** Applying mechanical engineering tolerances to code architecture and data integrity
-- **Problem Decomposition:** Breaking complex problems into manageable subsystems
-- **Optimization Mindset:** Continuously refining code for performance and efficiency
-- **Cross-Disciplinary Innovation:** Combining hardware and software perspectives to create novel solutions
+| Principle                            | Application                                          |
+| ------------------------------------ | ---------------------------------------------------- |
+| 🔬 **System Thinking**               | Approaching applications as interconnected systems   |
+| ⚙️ **Precision & Accuracy**          | Engineering tolerances applied to code architecture  |
+| 🧩 **Problem Decomposition**         | Breaking complex problems into manageable subsystems |
+| 🚀 **Optimization Mindset**          | Continuously refining for performance & efficiency   |
+| 🌐 **Cross-Disciplinary Innovation** | Combining hardware and software perspectives         |
+
+</div>
 
 ---
 
 ## 📁 Featured Projects
 
-### 1. AI Resume Analyzer
+<br>
+
+<div align="center">
+
+| #   | Project                         | Description                                                       | Tech Stack                                       |
+| --- | ------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
+| 1   | 🤖 **AI Resume Analyzer**       | Production-ready recruitment tool with NLP-powered resume parsing | Python, Flask, SQLAlchemy, spaCy, Hugging Face   |
+| 2   | 📰 **Developer News Dashboard** | Full-stack news aggregation from multiple sources                 | React, FastAPI, Python, TypeScript, Tailwind CSS |
+| 3   | 📈 **Market Trend AI**          | Crypto analytics with real-time data & sentiment analysis         | TypeScript, Python, FastAPI, React               |
+| 4   | 📚 **E-library**                | Digital knowledge hub for engineering students                    | TypeScript, React, CSS                           |
+| 5   | 💬 **Emotional Support Model**  | Self-learning AI chatbot with NLP                                 | Python, NLP, Streamlit                           |
+| 6   | 🎯 **IntentScope**              | Behavioral analytics with ML & streaming inference                | Python, HTML, CSS                                |
+
+</div>
+
+<br>
+
+---
+
+### 1. 🤖 AI Resume Analyzer
 
 > A production-ready recruitment tool that operates offline, leveraging NLP models to parse, analyze, and score candidate resumes against job requirements.
 
-**Tech Stack:** Python • Flask • SQLAlchemy • spaCy • Hugging Face Transformers
+**Tech Stack:** `Python` `Flask` `SQLAlchemy` `spaCy` `Hugging Face`
 
 **Key Capabilities:**
 
-- PDF/DOCX resume parsing with 85%+ accuracy
-- Intelligent skill extraction using spaCy NER
-- Weighted candidate scoring algorithms
-- Interactive analytics dashboard
-- Real-time candidate-job matching
+- ✅ PDF/DOCX resume parsing with 85%+ accuracy
+- ✅ Intelligent skill extraction using spaCy NER
+- ✅ Weighted candidate scoring algorithms
+- ✅ Interactive analytics dashboard
+- ✅ Real-time candidate-job matching
 
 [View Repository →](https://github.com/Panther0508/Ai-resume-analyzer)
 
 ---
 
-### 2. Developer News Dashboard (DevPulse)
+### 2. 📰 Developer News Dashboard (DevPulse)
 
 > A full-stack developer news aggregation platform built with React and FastAPI that consolidates news from multiple sources.
 
-**Tech Stack:** React • FastAPI • Python • TypeScript • Tailwind CSS
+**Tech Stack:** `React` `FastAPI` `Python` `TypeScript` `Tailwind CSS`
 
 **Key Capabilities:**
 
-- News aggregation from Hacker News and Dev.to
-- Smart search across sources
-- Tech trends visualization
-- AI-powered news assistant
+- ✅ News aggregation from Hacker News and Dev.to
+- ✅ Smart search across sources
+- ✅ Tech trends visualization
+- ✅ AI-powered news assistant
 
 [View Repository →](https://github.com/Panther0508/Developer-News-Dashboard)
 
 ---
 
-### 3. Market Trend AI
+### 3. 📈 Market Trend AI
 
 > A cryptocurrency news aggregation and market analytics platform featuring real-time data and AI-powered sentiment analysis.
 
-**Tech Stack:** TypeScript • Python • FastAPI • React
+**Tech Stack:** `TypeScript` `Python` `FastAPI` `React`
 
 **Key Capabilities:**
 
-- Real-time crypto data aggregation
-- AI-powered sentiment analysis
-- Market analytics dashboard
-- Intelligent recommendations
+- ✅ Real-time crypto data aggregation
+- ✅ AI-powered sentiment analysis
+- ✅ Market analytics dashboard
+- ✅ Intelligent recommendations
 
 [View Repository →](https://github.com/Panther0508/Market-Trend-AI)
 
 ---
 
-### 4. E-library
+### 4. 📚 E-library
 
 > A centralized digital knowledge hub for engineering students providing structured access to technical resources.
 
-**Tech Stack:** TypeScript • React • CSS
+**Tech Stack:** `TypeScript` `React` `CSS`
 
 **Key Capabilities:**
 
-- Engineering textbook collection
-- Research papers and documentation
-- Project guides and circuit diagrams
+- ✅ Engineering textbook collection
+- ✅ Research papers and documentation
+- ✅ Project guides and circuit diagrams
 
 [View Repository →](https://github.com/Panther0508/E-library)
 
 ---
 
-### 5. Emotional Support Model
+### 5. 💬 Emotional Support Model
 
 > A self-learning AI chatbot that provides emotional support and learns from interactions.
 
-**Tech Stack:** Python • NLP • Streamlit
+**Tech Stack:** `Python` `NLP` `Streamlit`
 
-[Live Demo →](https://emotional-support-model.pxxl.click) • [View Repository →](https://github.com/Panther0508/Emotional-Support-Model)
+|                                                            |                                                                              |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 🔗 [Live Demo](https://emotional-support-model.pxxl.click) | 📂 [View Repository](https://github.com/Panther0508/Emotional-Support-Model) |
 
 ---
 
-### 6. IntentScope
+### 6. 🎯 IntentScope
 
 > A behavioral analytics platform combining offline ML training with real-time streaming inference.
 
-**Tech Stack:** Python • HTML • CSS
+**Tech Stack:** `Python` `HTML` `CSS`
 
-[Live Demo →](https://intentscope.pxxl.click) • [View Repository →](https://github.com/Panther0508/IntentScope)
+|                                                |                                                                  |
+| ---------------------------------------------- | ---------------------------------------------------------------- |
+| 🔗 [Live Demo](https://intentscope.pxxl.click) | 📂 [View Repository](https://github.com/Panther0508/IntentScope) |
 
 ---
 
@@ -168,13 +216,13 @@ My mechatronics background provides a distinct perspective on software developme
 
 <div align="center">
 
-| Value                      | Commitment                                           |
-| -------------------------- | ---------------------------------------------------- |
-| **Code Quality**           | Writing maintainable, well-documented, testable code |
-| **Accessibility**          | Building inclusive applications for all users        |
-| **Performance**            | Optimizing for speed, efficiency, and scalability    |
-| **Continuous Learning**    | Staying current with emerging technologies           |
-| **Engineering Discipline** | Applying systematic approaches to development        |
+| Value                         | Commitment                                           |
+| :---------------------------- | :--------------------------------------------------- |
+| 💎 **Code Quality**           | Writing maintainable, well-documented, testable code |
+| ♿ **Accessibility**          | Building inclusive applications for all users        |
+| ⚡ **Performance**            | Optimizing for speed, efficiency, and scalability    |
+| 📚 **Continuous Learning**    | Staying current with emerging technologies           |
+| 🔧 **Engineering Discipline** | Applying systematic approaches to development        |
 
 </div>
 
@@ -184,27 +232,34 @@ My mechatronics background provides a distinct perspective on software developme
 
 <div align="center">
 
+> ### _"Engineering the future, one line of code at a time."_
+
+---
+
 I'm actively seeking opportunities to contribute to meaningful projects and collaborate with teams that value engineering excellence. Whether you're looking for a dedicated developer, have a challenging project, or want to discuss potential opportunities, I'd love to connect.
 
-**Open to:** Full-time positions, freelance projects, and collaborative opportunities
+### 📌 Open To
+
+![Full-time](https://img.shields.io/badge/Full--Time_Positions-22c55e?style=flat&logo=briefcase&logoColor=ffffff)
+![Freelance](https://img.shields.io/badge/Freelance_Projects-0ea5e9?style=flat&logo=laptop&logoColor=ffffff)
+![Collaboration](https://img.shields.io/badge/Collaborations-f472b6?style=flat&logo=people&logoColor=ffffff)
 
 ---
 
-[📧 Contact Me](mailto:nmesirionyengbaronye@gmail.com) •
-[🔗 LinkedIn](https://linkedin.com/in/nmesirionye) •
-[🐦 Twitter](https://twitter.com/pantherlord0508)
+### 📧 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-nmesirionyengbaronye@gmail.com-18181b?&style=for-the-badge&logo=gmail&logoColor=ea580c)](mailto:nmesirionyengbaronye@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nmesirionye-18181b?&style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://linkedin.com/in/nmesirionye)
+[![Twitter](https://img.shields.io/badge/Twitter-@pantherlord0508-18181b?&style=for-the-badge&logo=twitter&logoColor=0ea5e9)](https://twitter.com/pantherlord0508)
 
 ---
-
-_"Engineering the future, one line of code at a time."_
 
 </div>
 
 ---
 
-<!--
-  ═══════════════════════════════════════════════════════════════════════════
-  ║  Built with precision and passion by Nmesirionye                        ║
-  ║  Mechatronics Engineering Student • Full-Stack Developer                ║
-  ═══════════════════════════════════════════════════════════════════════════
--->
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:27272a,100:18181b&height=80&section=footer&text=Built+with+Precision+and+Passion&fontSize=16&animation=fadeIn&fontAlignY=40&desc=Mechatronics+Engineering+Student+%E2%80%A2+Full-Stack+Developer&descAlignY=70&descSize=12&descColor=a1a1aa)
+
+</div>
