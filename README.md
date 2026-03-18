@@ -27,6 +27,100 @@
 
 ---
 
+## 🎨 Gold & Noir Design System
+
+### Color Palette Philosophy
+
+A sophisticated color palette featuring **rich gold** and **deep noir black** as the primary colors, incorporating elegant contrast between luxurious metallic gold tones and bold noir black shades while maintaining visual harmony and aesthetic appeal.
+
+---
+
+### Deep Noir Black Shades
+
+| Color Name           | Hex Code  | Usage                               |
+| :------------------- | :-------- | :---------------------------------- |
+| 🖤 **Noir Void**     | `#050505` | Primary background, deepest black   |
+| ⚫ **Noir Obsidian** | `#0A0A0A` | Main content areas                  |
+| ⬛ **Noir Ebony**    | `#121212` | Card backgrounds, elevated surfaces |
+| ◼ **Noir Charcoal**  | `#1A1A1A` | Secondary containers                |
+| ▪ **Noir Graphite**  | `#252525` | Borders, subtle accents             |
+
+---
+
+### Rich Metallic Gold Tones
+
+| Color Name            | Hex Code  | Usage                   |
+| :-------------------- | :-------- | :---------------------- |
+| ✨ **Gold Pure**      | `#FFD700` | Bright highlights, CTAs |
+| 💫 **Gold Rich**      | `#D4AF37` | Primary accent, icons   |
+| 🌟 **Gold Antique**   | `#C5A028` | Gradients, borders      |
+| 🥂 **Gold Champagne** | `#E8D5A3` | Text, subtle highlights |
+| 🏅 **Gold Bronze**    | `#B8860B` | Dark gold accents       |
+| 🌾 **Gold Muted**     | `#A89F68` | Secondary text          |
+
+---
+
+### Gold Gradients
+
+| Gradient Name    | Composition                                |
+| :--------------- | :----------------------------------------- |
+| **Gold Linear**  | `#D4AF37` → `#FFD700` → `#C5A028`          |
+| **Gold Shimmer** | Animated `#D4AF37` ↔ `#FFD700` ↔ `#E8D5A3` |
+| **Gold Radial**  | `#FFD700` → `#D4AF37` → `#B8860B`          |
+
+---
+
+### Color Swatches Visualization
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│ NOIR SHADES                                                        │
+│ ████████████████████████████████████  #050505 Noir Void             │
+│ ████████████████████████████████████  #0A0A0A Noir Obsidian        │
+│ ████████████████████████████████████  #121212 Noir Ebony           │
+│ ████████████████████████████████████  #1A1A1A Noir Charcoal        │
+│ ████████████████████████████████████  #252525 Noir Graphite        │
+├─────────────────────────────────────────────────────────────────────┤
+│ GOLD SHADES                                                        │
+│ ████████████████████████████████████  #FFD700 Gold Pure             │
+│ ████████████████████████████████████  #D4AF37 Gold Rich            │
+│ ████████████████████████████████████  #C5A028 Gold Antique         │
+│ ████████████████████████████████████  #E8D5A3 Gold Champagne       │
+│ ████████████████████████████████████  #B8860B Gold Bronze         │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### Design Principles
+
+| Principle                      | Description                                   |
+| :----------------------------- | :-------------------------------------------- |
+| 🎯 **Metallic Brilliance**     | Rich gold tones that shimmer and create depth |
+| 💎 **Bold Elegance**           | Deep noir blacks as perfect canvas for gold   |
+| ⚖️ **Visual Harmony**          | Balanced light and dark creating perfection   |
+| ✨ **Timeless Sophistication** | Classic combination transcending trends       |
+
+---
+
+### Typography
+
+- **Headings**: Cormorant Garamond (serif) - Elegant, luxurious
+- **Body**: Montserrat (sans-serif) - Clean, modern readability
+
+---
+
+### Visual Effects
+
+- **Gold Gradient**: Used for primary CTAs and accent elements
+- **Animated Shimmer**: Subtle gold shimmer effect on key highlights
+- **Radial Glow**: Ambient gold lighting for sections
+- **Hover Transitions**: Gold glow effects on interactive elements
+
+> _"The interplay between deep noir and luminous gold creates an atmosphere of timeless sophistication. Every element whispers luxury."_
+
+---
+
 ## 👨‍💻 About Me
 
 I am a **Mechatronics Engineering student** at the Federal University of Technology Owerri with over two years of hands-on experience building exceptional digital experiences that blend engineering precision with elegant design.
@@ -85,7 +179,7 @@ I'm passionate about leveraging modern technologies to create intuitive user int
 
 ## 🎓 Engineering Approach
 
-<div align="center">
+<div align="center>
 
 | Principle                            | Application                                          |
 | ------------------------------------ | ---------------------------------------------------- |
@@ -230,7 +324,7 @@ I'm passionate about leveraging modern technologies to create intuitive user int
 
 ## 📬 Let's Connect
 
-<div align="center">
+<div align="center>
 
 > ### _"Engineering the future, one line of code at a time."_
 
