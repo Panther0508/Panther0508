@@ -66,67 +66,121 @@ I'm a **Fullstack Developer** who builds fast, scalable, and user-friendly web a
 
 ## 🚀 Featured Projects
 
-### 1. Task Manager API
+### 1. Developer-News-Dashboard (DevPulse)
 
-> A production-ready task management system with JWT auth, REST API, and real-time features
+> A full-stack Developer News Dashboard built with React and FastAPI that aggregates developer-related news from multiple public APIs.
 
-**Tech:** React • Node.js • Express • MongoDB • JWT
+**Tech:** React • FastAPI • Python • TypeScript • Tailwind CSS
 
 **Key Features:**
 
-- ✅ User authentication with JWT
-- ✅ CRUD operations for tasks
-- ✅ Real-time updates
-- ✅ Role-based access control
+- Aggregated news from Hacker News and Dev.to
+- Smart search across all news sources
+- Tech Trends Charts with visualizations
+- GitHub Trending repositories
+- AI News Assistant powered by HuggingFace
 
-**Repository:** [View on GitHub](https://github.com/Panther0508/task-manager)
+**Repository:** [View on GitHub](https://github.com/Panther0508/Developer-News-Dashboard)
+
+|                |                |
+| -------------- | -------------- |
+| ⭐ Stars       | 1              |
+| 🌍 Last Commit | March 16, 2026 |
+| 📝 License     | MIT            |
 
 ---
 
-### 2. E-commerce API
+### 2. Market-Trend-AI
 
-> A robust RESTful API powering e-commerce functionality
+> A cryptocurrency news aggregation and market analytics platform featuring real-time data from multiple sources and AI-powered sentiment analysis.
 
-**Tech:** Node.js • Express • MongoDB • Mongoose
+**Tech:** TypeScript • Python • FastAPI • React • CSS
 
 **Key Features:**
 
-- ✅ Product & category management
-- ✅ Shopping cart & orders
-- ✅ Secure payment integration
-- ✅ Search & filtering
+- Real-time cryptocurrency data aggregation
+- AI-powered sentiment analysis
+- Market analytics dashboard
+- News aggregation from multiple crypto sources
+- Intelligent recommendations
 
-**Repository:** [View on GitHub](https://github.com/Panther0508/ecommerce-api)
+**Repository:** [View on GitHub](https://github.com/Panther0508/Market-Trend-AI)
+
+|                |                |
+| -------------- | -------------- |
+| ⭐ Stars       | 1              |
+| 🌍 Last Commit | March 18, 2026 |
 
 ---
 
-### 3. Weather Dashboard
+### 3. E-library
 
-> Real-time weather application with forecasts and location-based data
+> A centralized digital knowledge hub for engineering students, providing structured access to textbooks, research papers, project guides, and technical resources.
 
-**Tech:** React • OpenWeatherMap API • Axios
+**Tech:** TypeScript • React • CSS
 
 **Key Features:**
 
-- ✅ Current weather & 5-day forecast
-- ✅ Location search with autocomplete
-- ✅ Temperature unit conversion
-- ✅ Beautiful UI with weather animations
+- Engineering textbook collection
+- Research papers and documentation
+- Project guides and circuit diagrams
+- Programming references
+- Case studies
+
+**Repository:** [View on GitHub](https://github.com/Panther0508/E-library)
+
+|                |                |
+| -------------- | -------------- |
+| ⭐ Stars       | 1              |
+| 🌍 Last Commit | March 18, 2026 |
 
 ---
 
-### 4. Chat Application
+### 4. Emotional-Support-Model
 
-> Real-time messaging with WebSocket integration
+> A self-learning AI chatbot that provides emotional support and learns from interactions. Built with Python, NLP, and Streamlit.
 
-**Tech:** Node.js • Express • Socket.io • React • MongoDB
+**Tech:** Python • HTML • CSS • JavaScript • Streamlit
 
 **Key Features:**
 
-- ✅ Real-time messaging
-- ✅ Multiple chat rooms
-- ✅ Online user status
-- ✅ Message history
+- NLP-based conversational AI
+- Self-learning from interactions
+- Emotional support responses
+- Streamlit web interface
+
+**Repository:** [View on GitHub](https://github.com/Panther0508/Emotional-Support-Model)
+
+**Live Demo:** [https://emotional-support-model.pxxl.click](https://emotional-support-model.pxxl.click)
+
+|                |                |
+| -------------- | -------------- |
+| 🌍 Last Commit | March 13, 2026 |
+| 📝 License     | MIT            |
+
+---
+
+### 5. IntentScope
+
+> A behavioral analytics platform combining offline machine learning training with real-time streaming inference. Features a comprehensive canvas for intent classification.
+
+**Tech:** Python • HTML • CSS
+
+**Key Features:**
+
+- Offline machine learning training
+- Real-time streaming inference
+- Behavioral analytics
+- Intent classification system
+- 40-block canvas implementation
+
+**Repository:** [View on GitHub](https://github.com/Panther0508/IntentScope)
+
+**Live Demo:** [https://intentscope.pxxl.click](https://intentscope.pxxl.click)
+
+|                |                |
+| -------------- | -------------- |
+| 🌍 Last Commit | March 11, 2026 |
 
 ---
 
@@ -174,11 +228,20 @@ const currentFocus = {
 ## 📌 Pinned Projects
 
 <div align="left">
-  <a href="https://github.com/Panther0508/task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=task-manager&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Task Manager" />
+  <a href="https://github.com/Panther0508/Developer-News-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=Developer-News-Dashboard&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Developer News Dashboard" />
   </a>
-  <a href="https://github.com/Panther0508/ecommerce-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=ecommerce-api&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="E-commerce API" />
+  <a href="https://github.com/Panther0508/Market-Trend-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=Market-Trend-AI&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Market Trend AI" />
+  </a>
+  <a href="https://github.com/Panther0508/E-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=E-library&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="E-library" />
+  </a>
+  <a href="https://github.com/Panther0508/Emotional-Support-Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=Emotional-Support-Model&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Emotional Support Model" />
+  </a>
+  <a href="https://github.com/Panther0508/IntentScope">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Panther0508&repo=IntentScope&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="IntentScope" />
   </a>
 </div>
 
