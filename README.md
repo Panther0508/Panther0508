@@ -19,7 +19,7 @@ Federal University of Technology Owerri (FUTO) · Owerri, Nigeria
 
 I am a Mechatronics Engineering student at FUTO with 2+ years of experience building **offline-first, locally-run applications** that solve real problems in low-connectivity environments. My work centers on creating technology that works for everyone—not just those with high-speed internet and expensive devices.
 
-I built **Pantero** after experiencing the internet instability common across African universities, and **VitaChain** as its healthcare-focused counterpart. Both run AI models directly in the browser, eliminating server costs and ensuring accessibility on low-end devices.
+I am building **Pantero** after experiencing the internet instability common across African universities, and **VitaChain** as its healthcare-focused counterpart. Both run AI models directly in the browser, eliminating server costs and ensuring accessibility on low-end devices.
 
 My interdisciplinary engineering background allows me to approach software with **system-level thinking**—designing scalable, efficient solutions that respect user constraints and deliver genuine impact.
 
@@ -144,10 +144,10 @@ My interdisciplinary engineering background allows me to approach software with 
 
 ## 🌍 Impact & Recognition
 
-**Pantero** has organically grown to a **500+ waitlist** spanning Nigeria, Kenya, Ghana, and South Africa—all while being built by a single student developer. The platform addresses a critical gap: **81% of African students lack consistent internet access** for learning tools.
+**Pantero** has organically grown to a **190+ waitlist** spanning Nigeria, Kenya, Ghana, and South Africa—all while being built by a single student developer. The platform addresses a critical gap: **81% of African students lack consistent internet access** for learning tools.
 
 **Key Impact Metrics:**
-- 🌐 **Waitlist:** 500+ users across 4+ African countries (organic growth)
+- 🌐 **Waitlist:** 190+ users across 4+ African countries (organic growth)
 - 💡 **Problem Solved:** AI mentorship available offline, no servers, no subscriptions
 - 🔒 **Privacy:** All data stays on user devices—no external servers
 - 📱 **Accessibility:** Runs on low-end smartphones and slow networks
